@@ -2,3 +2,4 @@ service/package-lock.json
 service/package.json
 service/node_modules
 dataset
+.browser-profiles
